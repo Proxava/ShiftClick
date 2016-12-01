@@ -3,9 +3,7 @@
   <name>Shift-Click</name>
   <author>Proxava</author>
   <targetVersion>0.15.1284</targetVersion>
-  <description>
-    This mod adds a shift-click ability to the bill amount changing mechanic. Shift-Clicking it changes 5 at a time.
-	
-	Version: 1.0
+  <description>This mod adds a shift-click ability to the bill amount changing mechanic. Shift-Clicking it changes 5 at a time.
+Version: 1.1
   </description>
 </ModMetaData>
