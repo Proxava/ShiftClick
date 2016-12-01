@@ -1,0 +1,6 @@
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Release\TooltipMod.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Release\TooltipMod.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Release\Assembly-CSharp.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Release\UnityEngine.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\obj\Release\TooltipMod.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\obj\Release\TooltipMod.pdb

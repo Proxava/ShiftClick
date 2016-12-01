@@ -1,0 +1,10 @@
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\bin\Release\TooltipMod.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\bin\Release\TooltipMod.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\bin\Release\Assembly-CSharp.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\bin\Release\UnityEngine.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Assemblies\ShiftClick.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Assemblies\ShiftClick.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\obj\Release\ShiftClick.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\obj\Release\ShiftClick.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Assemblies\ShiftClick.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\obj\Release\ShiftClick.dll

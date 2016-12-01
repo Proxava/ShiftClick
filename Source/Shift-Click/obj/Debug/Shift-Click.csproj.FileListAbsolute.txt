@@ -1,0 +1,5 @@
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\obj\Debug\Shift-Click.csprojResolveAssemblyReference.cache
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\bin\Debug\ShiftClick.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\bin\Debug\ShiftClick.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\obj\Debug\ShiftClick.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Assemblies\ShiftClick.dll

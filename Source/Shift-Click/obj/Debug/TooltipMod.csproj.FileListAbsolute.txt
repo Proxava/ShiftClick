@@ -1,0 +1,7 @@
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\obj\Debug\TooltipMod.csprojResolveAssemblyReference.cache
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Debug\TooltipMod.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Debug\TooltipMod.pdb
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Debug\Assembly-CSharp.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\bin\Debug\UnityEngine.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\obj\Debug\TooltipMod.dll
+B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\TooltipMod\obj\Debug\TooltipMod.pdb
