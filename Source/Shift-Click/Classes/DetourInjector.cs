@@ -26,8 +26,8 @@ namespace ShiftClick
 
         private static bool DoInject()
         {
-            String targetMethod = "DrawConfigInterface";
-            String replaceMethod = "DrawConfigInterface";
+            String targetMethod = "DoConfigInterface";
+            String replaceMethod = "DoConfigInterface";
 
             MethodInfo RimWorld_Bill_Production_Draw = typeof(RimWorld.Bill_Production).GetMethod(targetMethod, UniversalBindingFlags); // new [] { typeof(Rect), typeof(Color) }
             MethodInfo ModTest_Bill_Production_Draw = typeof(Bill_ProductionMod).GetMethod(replaceMethod, UniversalBindingFlags);

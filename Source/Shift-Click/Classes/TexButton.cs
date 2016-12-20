@@ -1,8 +1,7 @@
-﻿using Verse;
-using System;
+﻿using System;
 using UnityEngine;
 
-namespace ShiftClick
+namespace Verse
 {
     [StaticConstructorOnStartup]
     internal class TexButton
@@ -38,6 +37,8 @@ namespace ShiftClick
         public static readonly Texture2D Paste = ContentFinder<Texture2D>.Get("UI/Buttons/Paste", true);
 
         public static readonly Texture2D Drop = ContentFinder<Texture2D>.Get("UI/Buttons/Drop", true);
+
+        public static readonly Texture2D Ingest = ContentFinder<Texture2D>.Get("UI/Buttons/Ingest", true);
 
         public static readonly Texture2D DragHash = ContentFinder<Texture2D>.Get("UI/Buttons/DragHash", true);
 
@@ -111,9 +112,7 @@ namespace ShiftClick
 
         public static readonly Texture2D ShowZones = ContentFinder<Texture2D>.Get("UI/Buttons/ShowZones", true);
 
-        public static readonly Texture2D ShowBeauty = ContentFinder<Texture2D>.Get("UI/Buttons/ShowBeauty", true);
-
-        public static readonly Texture2D ShowRoomStats = ContentFinder<Texture2D>.Get("UI/Buttons/ShowRoomStats", true);
+        public static readonly Texture2D ShowEnvironment = ContentFinder<Texture2D>.Get("UI/Buttons/ShowEnvironment", true);
 
         public static readonly Texture2D ShowColonistBar = ContentFinder<Texture2D>.Get("UI/Buttons/ShowColonistBar", true);
 
@@ -122,6 +121,12 @@ namespace ShiftClick
         public static readonly Texture2D AutoHomeArea = ContentFinder<Texture2D>.Get("UI/Buttons/AutoHomeArea", true);
 
         public static readonly Texture2D CategorizedResourceReadout = ContentFinder<Texture2D>.Get("UI/Buttons/ResourceReadoutCategorized", true);
+
+        public static readonly Texture2D LockNorthUp = ContentFinder<Texture2D>.Get("UI/Buttons/LockNorthUp", true);
+
+        public static readonly Texture2D UsePlanetDayNightSystem = ContentFinder<Texture2D>.Get("UI/Buttons/UsePlanetDayNightSystem", true);
+
+        public static readonly Texture2D ExpandingIcons = ContentFinder<Texture2D>.Get("UI/Buttons/ExpandingIcons", true);
 
         public static readonly Texture2D[] SpeedButtonTextures = new Texture2D[]
         {
