@@ -8,3 +8,6 @@ B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\obj\Release\ShiftC
 B:\Spiele\Modding\RimWorld\PROXMOD_ToolTip\Source\Shift-Click\obj\Release\ShiftClick.pdb
 B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Assemblies\ShiftClick.dll
 B:\Spiele\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\obj\Release\ShiftClick.dll
+B:\Modding\RimWorld\PROXMOD_ShiftClick\Assemblies\ShiftClick.dll
+B:\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\obj\Release\Shift-Click.csprojResolveAssemblyReference.cache
+B:\Modding\RimWorld\PROXMOD_ShiftClick\Source\Shift-Click\obj\Release\ShiftClick.dll
